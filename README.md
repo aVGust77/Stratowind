@@ -2,6 +2,12 @@
 
 StratoWind is an open-source toolkit for analyzing stratospheric wind profiles for HAPS, high-altitude balloons, atmospheric research, and related applications.
 
+## Project status
+
+This project is actively maintained and released as a reusable Python toolkit. It began as practical wind-analysis work for stratospheric flight planning and was packaged into a clean, open-source foundation for broader research and engineering use.
+
+The repository is maintained by aVGust77 and is intended as a practical, extensible starting point for atmospheric profile analysis, mission planning, and scientific workflows.
+
 The project is designed to help engineers and researchers:
 
 - load wind data from NetCDF, GRIB, or similar atmospheric datasets;
