@@ -95,10 +95,35 @@ stratowind/
 └── .github/workflows/ci.yml
 ```
 
+## 3-day execution plan for public launch and grant readiness
+
+The project is already publicly visible and functionally validated. The next objective is to turn it into a user-facing product and submission-ready package quickly.
+
+### Day 1 — Public-facing foundation
+
+- finalize repository positioning and maintainer narrative
+- improve README and docs for non-expert users
+- prepare issue templates and contribution path
+- verify install flow and sample workflow on a clean environment
+
+### Day 2 — User value and demo polish
+
+- add a more polished demo profile and notebook examples
+- improve the Streamlit UI and output readability
+- document real-world use cases for HAPS, balloons, and atmospheric research
+- create a simple public summary for grant and outreach use
+
+### Day 3 — Submission and launch
+
+- finalize grant-ready narrative and open-source positioning
+- create a concise project pitch and value statement
+- publish final updates to the public repo
+- prepare a release summary and next milestones for v0.2.0
+
 ## Roadmap
 
 - v0.1.0: dataset loading, wind profile analysis, calm layer detection, export functions, Streamlit UI
-- v0.2.0: NetCDF/GRIB ingestion, richer plotting, improved recommendation logic
+- v0.2.0: NetCDF/GRIB ingestion, richer plotting, improved recommendation logic, better public examples
 - v0.3.0: climate summaries, altitudinal windows, notebook examples, documentation expansion
 
 ## Contributing
